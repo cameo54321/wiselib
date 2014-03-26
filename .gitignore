@@ -28,3 +28,8 @@ tags
 .project
 .settings
 dot/
+
+.gitignore
+apps/pc_apps/Makefile.base
+apps/generic_apps/Makefile.local
+apps/pc_apps/timer_test/timer_test
